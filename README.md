@@ -36,3 +36,10 @@ This is market data, not betting advice. 18+, gamble responsibly.
 ## License
 
 MIT
+
+## Real-time HTTP API (no SDK)
+
+```bash
+curl "https://yakk000--spain-odds-pinnacle-value.apify.actor/?mode=value_bets&leagues=la_liga&minEv=0.03&maxResults=20" \
+  -H "Authorization: Bearer $APIFY_TOKEN"
+```
