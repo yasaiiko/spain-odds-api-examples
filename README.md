@@ -9,6 +9,8 @@ Python examples for the [Spanish Bookmakers Odds API](https://apify.com/Yakk000/
 | [`best_odds.py`](best_odds.py) | Best Spanish price per outcome for a team's next match, and whether it's a surebet |
 | [`clv_report.py`](clv_report.py) | Closing line value of the opening odds for the matches played on a given day |
 
+📣 **Free daily value bets on Telegram:** [t.me/valuebets_es](https://t.me/valuebets_es) · 🌐 **Daily web preview:** [yasaiiko.github.io/spain-odds-api-examples](https://yasaiiko.github.io/spain-odds-api-examples/)
+
 ## Setup
 
 ```bash
