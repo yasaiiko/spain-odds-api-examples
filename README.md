@@ -7,6 +7,8 @@ Python examples for the [Spanish Bookmakers Odds API](https://apify.com/Yakk000/
 | [`value_bets.py`](value_bets.py) | Prints the current +EV value bets against Pinnacle's no-vig fair odds |
 | [`telegram_alerts.py`](telegram_alerts.py) | Sends each new value bet to a Telegram chat, without repeats (run it on a schedule) |
 | [`best_odds.py`](best_odds.py) | Best Spanish price per outcome for a team's next match, and whether it's a surebet |
+| [`betfair_back_lay.py`](betfair_back_lay.py) | Betfair Exchange Spain back and lay prices with liquidity, tightest spread first ([Actor](https://apify.com/Yakk000/betfair-exchange-spain-odds)) |
+| [`polymarket_vs_pinnacle.py`](polymarket_vs_pinnacle.py) | How far Polymarket sports prices are from Pinnacle's no-vig line after fees, by league ([Actor](https://apify.com/Yakk000/polymarket-sports-odds-pinnacle)) |
 | [`clv_report.py`](clv_report.py) | Closing line value of the opening odds for the matches played on a given day |
 
 📣 **Free daily value bets on Telegram:** [t.me/valuebets_es](https://t.me/valuebets_es) · 🌐 **Daily web preview:** [yasaiiko.github.io/spain-odds-api-examples](https://yasaiiko.github.io/spain-odds-api-examples/)
