@@ -1,6 +1,6 @@
 # Spanish Bookmakers Odds API: examples
 
-Python examples for the [Spanish Bookmakers Odds API](https://apify.com/Yakk000/spain-odds-pinnacle-value) on Apify. It provides pre-match football odds from **14 Spanish-licensed bookmakers** (William Hill.es, Betway.es, Bwin.es, Tonybet.es, LeoVegas.es, Paf.es, Admiralbet.es, Paston, Bet777.es, Yaass and Betfair Exchange.es), de-vigged against **Pinnacle**, and refreshed every 10 minutes.
+Python examples for the [Spanish Bookmakers Odds API](https://apify.com/Yakk000/spain-odds-pinnacle-value) on Apify. It provides pre-match football odds from **12 Spanish-licensed bookmakers** (William Hill.es, Betway.es, Bwin.es, Tonybet.es, LeoVegas.es, Paf.es, Bet777.es, Yaass and Betfair Exchange.es), de-vigged against **Pinnacle**, and refreshed at least every 30 minutes.
 
 | Example | What it does |
 |---|---|
