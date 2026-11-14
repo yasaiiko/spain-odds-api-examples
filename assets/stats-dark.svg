@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<style>@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1}}</style>
+<g transform="translate(10,10)" style="animation:in .7s 0.00s ease-out both">
+<rect width="210" height="110" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="48" font-size="28" font-weight="700" fill="#f2c94c">11 + 1</text>
+<text x="18" y="74" font-size="14" font-weight="600" fill="#e6edf3">Spanish bookmakers</text>
+<text x="18" y="94" font-size="12" fill="#8b949e">+ Betfair Exchange Spain</text></g><g transform="translate(232,10)" style="animation:in .7s 0.15s ease-out both">
+<rect width="210" height="110" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="48" font-size="28" font-weight="700" fill="#3fb950">18</text>
+<text x="18" y="74" font-size="14" font-weight="600" fill="#e6edf3">competitions</text>
+<text x="18" y="94" font-size="12" fill="#8b949e">football · basketball · tennis</text></g><g transform="translate(454,10)" style="animation:in .7s 0.30s ease-out both">
+<rect width="210" height="110" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="48" font-size="28" font-weight="700" fill="#f2c94c">No-vig</text>
+<text x="18" y="74" font-size="14" font-weight="600" fill="#e6edf3">Pinnacle fair odds</text>
+<text x="18" y="94" font-size="12" fill="#8b949e">EV on every price</text></g><g transform="translate(676,10)" style="animation:in .7s 0.45s ease-out both">
+<rect width="210" height="110" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="48" font-size="28" font-weight="700" fill="#3fb950">≤ 30 min</text>
+<text x="18" y="74" font-size="14" font-weight="600" fill="#e6edf3">refresh</text>
+<text x="18" y="94" font-size="12" fill="#8b949e">collected 24/7 from Spain</text></g></svg>
